@@ -102,5 +102,5 @@
   </a>
 </p>
 
-<span align="center"> 🔭 I’m currently a Frontend developer in Ulaanbaatar, Mongolia 🇲🇳 - 📫 You can reach me via
+<span align="center"> 🔭 📫 You can reach me via
 [email](mailto:yalaltgandush@gmail.com) 📧 :octocat:  </span>

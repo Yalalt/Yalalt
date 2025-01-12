@@ -1,14 +1,6 @@
 <h1 align="left">Hi 👋, I'm Yalalt</h1>
 <h3 align="left">
-  I am a
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
-  </a>
-  and
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="nestjs" width="40" height="40" />
-  </a>
-  Developer
+  I am a Web Developer
 </h3>
 
 <h3 align="left">Languages and Tools:</h3>
